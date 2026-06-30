@@ -1,0 +1,53 @@
+Customer: Customer: I need help with my account
+Bot: 
+Thank you for contacting customer support.
+
+We have received your query and will help you resolve it.
+Please provide additional details if needed.
+
+
+Customer: I have a problem with my order
+Bot: 
+We are sorry for the inconvenience.
+
+Your concern is important to us and our support team will work to resolve it as soon as possible.
+
+
+Customer: hello
+Bot: 
+Thank you for contacting customer support.
+
+We have received your query and will assist you shortly.
+
+
+Customer: tracking password return
+Bot: You can track your order from the Orders section.
+
+Customer: my name is rithika
+Bot: 
+Thank you for contacting customer support.
+
+We have received your query and will assist you shortly.
+
+
+Customer: what is my name
+Bot: 
+Thank you for contacting customer support.
+
+We have received your query and will assist you shortly.
+
+
+Customer: hello
+Bot: 
+Thank you for contacting customer support.
+
+We have received your query and will assist you shortly.
+
+
+Customer: hello
+Bot: 
+Thank you for contacting customer support.
+
+We have received your query and will assist you shortly.
+
+
